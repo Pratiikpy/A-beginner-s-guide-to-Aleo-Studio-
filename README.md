@@ -4,6 +4,8 @@
 
 # 🌟 Welcome to the Aleo Studio Beginner's Guide by Prateek Tripathi! 🚀
 
+# Discord : 0xprtk.eth
+
 Hey there, I'm Prateek Tripathi, your guide into the fascinating world of Aleo Studio! 👋 As the author of the "Blockchain Path" book and a passionate web3 content writer, I'm happy to share my knowledge and enthusiasm for the Aleo platform with you.
 
 ## 🚀 What is Aleo Studio?
